@@ -1,0 +1,1 @@
+QR scanning attendance app created for Human Computer Interaction course. It is designed to capture attendance records via QR codes in the Computer Science student homework help lab at the university I attend. 
